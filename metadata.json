@@ -1,0 +1,6 @@
+{
+  "name": "CopyPad",
+  "description": "Instant scratchpad with auto-copy to clipboard on exit and one-tap copy button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

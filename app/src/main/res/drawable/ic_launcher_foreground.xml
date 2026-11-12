@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Secondary document shadow/layer (showing copy duplicate effect) -->
+    <path
+        android:fillColor="#4D67E8F9"
+        android:pathData="M44,30 H74 C77.3,30 80,32.7 80,36 V68 C80,71.3 77.3,74 74,74 H44 C40.7,74 38,71.3 38,68 V36 C38,32.7 40.7,30 44,30 Z" />
+
+    <!-- Main clipboard / note card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36 H64 C67.3,36 70,38.7 70,42 V76 C70,79.3 67.3,82 64,82 H34 C30.7,82 28,79.3 28,76 V42 C28,38.7 30.7,36 34,36 Z" />
+
+    <!-- Card top clip header -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M42,32 H56 C57.1,32 58,32.9 58,34 V38 C58,39.1 57.1,40 56,40 H42 C40.9,40 40,39.1 40,38 V34 C40,32.9 40.9,32 42,32 Z" />
+
+    <!-- Top clip hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,35 H52 C52.5,35 53,35.5 53,36 C53,36.5 52.5,37 52,37 H46 C45.5,37 45,36.5 45,36 C45,35.5 45.5,35 46,35 Z" />
+
+    <!-- Text note lines inside main card -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,48 H62 C62.8,48 63.5,48.7 63.5,49.5 C63.5,50.3 62.8,51 62,51 H36 C35.2,51 34.5,50.3 34.5,49.5 C34.5,48.7 35.2,48 36,48 Z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M36,56 H58 C58.8,56 59.5,56.7 59.5,57.5 C59.5,58.3 58.8,59 58,59 H36 C35.2,59 34.5,58.3 34.5,57.5 C34.5,56.7 35.2,56 36,56 Z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M36,64 H52 C52.8,64 53.5,64.7 53.5,65.5 C53.5,66.3 52.8,67 52,67 H36 C35.2,67 34.5,66.3 34.5,65.5 C34.5,64.7 35.2,64 36,64 Z" />
+
+    <!-- Checkmark badge / copy indicator at bottom right -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M66,66 C70.4,66 74,69.6 74,74 C74,78.4 70.4,82 66,82 C61.6,82 58,78.4 58,74 C58,69.6 61.6,66 66,66 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M63,74 L65,76 L69,72"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

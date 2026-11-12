@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CopyPad</string>
+    <string name="title_copypad">CopyPad</string>
+    <string name="subtitle_copypad">Auto-copy Scratchpad</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="copied_to_clipboard">Copied to Clipboard!</string>
+    <string name="paste_from_clipboard">Paste</string>
+    <string name="clear_text">Clear</string>
+    <string name="share_text">Share</string>
+    <string name="text_placeholder">Type, dictate, or paste notes here…\n\nYour text is automatically copied to the clipboard whenever you exit the app.</string>
+    <string name="auto_copy_active">Auto-copy on exit is active</string>
+    <string name="auto_copy_desc">Exiting via Home, Back, or App Switcher will instantly copy this text to clipboard.</string>
+    <string name="recent_copies">Recent Copies</string>
+    <string name="no_recent_copies">No recent clippings yet</string>
+</resources>
+
